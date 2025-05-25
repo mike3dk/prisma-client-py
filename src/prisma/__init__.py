@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
 __title__ = 'prisma'
-__author__ = 'RobertCraigie'
+__author__ = 'RobertCraigie, Michael Kang'
 __license__ = 'APACHE'
-__copyright__ = 'Copyright 2020-2023 RobertCraigie'
-__version__ = '0.15.0'
+__copyright__ = 'Copyright 2025- Michael Kang, 2020-2023 RobertCraigie'
+__version__ = '0.16.0'
 
 from typing import TYPE_CHECKING
 

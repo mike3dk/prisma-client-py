@@ -34,11 +34,11 @@ extras = {
 setup(
     name='prisma',
     version=version,
-    author='Robert Craigie',
+    author='Robert Craigie, Michael Kang',
     author_email='robert@craigie.dev',
-    maintainer='Robert Craigie',
-    license='APACHE',
-    url='https://github.com/RobertCraigie/prisma-client-py',
+    maintainer='Michael Kang',
+    maintainer_email='michael3dk@gmail.com',
+    url='https://github.com/mike3dk/prisma-client-py',
     description='Prisma Client Python is an auto-generated and fully type-safe database client',
     install_requires=requirements('base.txt'),
     long_description=readme,
@@ -65,8 +65,8 @@ setup(
     },
     project_urls={
         'Documentation': 'https://prisma-client-py.readthedocs.io',
-        'Source': 'https://github.com/RobertCraigie/prisma-client-py',
-        'Tracker': 'https://github.com/RobertCraigie/prisma-client-py/issues',
+        'Source': 'https://github.com/mike3dk/prisma-client-py',
+        'Tracker': 'https://github.com/mike3dk/prisma-client-py/issues',
     },
     keywords=[
         'orm',

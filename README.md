@@ -22,6 +22,9 @@
     </div>
 </div>
 
+> [!NOTE]
+> Michael Kang is maintaining this fork to keep it up to date with the latest Prisma releases. The original project is no longer being maintained by RobertCraigie.
+
 > [!WARNING]
 > Prisma Client Python is no longer being maintained. See [this issue](https://github.com/RobertCraigie/prisma-client-py/issues/1073) for more information.
 
